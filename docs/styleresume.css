@@ -1,8 +1,9 @@
 body {
-
+    color: navy;
     /*background:papayaWhip*/
-    background: FireBrick;
-    font-family: Comic-sans, Arial, Helvetica, sans-serif;
+    background: MediumTurquoise;
+    font-family: Garamond, serif;
+
 }
 
 div.side-by-side {
@@ -15,6 +16,10 @@ img {
 }
 
 .featureBlock {
-    background-color:pink;
+    background-color: pink;
     font-size: smaller;
+}
+nav{
+    
+    background:#ffc072;
 }
